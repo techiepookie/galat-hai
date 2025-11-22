@@ -9,7 +9,7 @@
       }
     },
     "condition": {
-      "urlFilter": "porn",
+      "urlFilter": "pornhub",
       "resourceTypes": ["main_frame"]
     }
   },
@@ -23,7 +23,539 @@
       }
     },
     "condition": {
+      "urlFilter": "xvideos",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "xhamster",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "xnxx",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "redtube",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "youporn",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "tube8",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "spankbang",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "porn",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
       "urlFilter": "xxx",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "sex",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 12,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "adult",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 13,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "nude",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 14,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "nsfw",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 15,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "onlyfans",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 16,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "chaturbate",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 17,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "livejasmin",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 18,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "cam4",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 19,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "stripchat",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 20,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "hentai",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 21,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "brazzers",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 22,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "realitykings",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 23,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "bangbros",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 24,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "naughtyamerica",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 25,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "escort",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 26,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "camgirl",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 27,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "eporner",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 28,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "tnaflix",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 29,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "empflix",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 30,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "motherless",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 31,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "nordvpn",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 32,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "expressvpn",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 33,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "protonvpn",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 34,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "hidemyass",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 35,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "hide.me",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 36,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "proxy",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 37,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "kproxy",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 38,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "hidester",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 39,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "anonymouse",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 40,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "torproject",
       "resourceTypes": ["main_frame"]
     }
   }
