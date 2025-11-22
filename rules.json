@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "chrome-extension://__EXT_ID__/redirect.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "porn",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "http://127.0.0.1:5500/redirect.html "
+      }
+    },
+    "condition": {
+      "urlFilter": "xxx",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
