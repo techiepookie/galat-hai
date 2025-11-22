@@ -5,7 +5,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "chrome-extension://__EXT_ID__/redirect.html"
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
       }
     },
     "condition": {
@@ -19,7 +19,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "http://127.0.0.1:5500/redirect.html "
+        "url": "https://techiepookie.github.io/galat-hai/redirect.html"
       }
     },
     "condition": {
