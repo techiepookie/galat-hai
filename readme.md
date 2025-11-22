@@ -107,7 +107,8 @@ You can host your funny redirect page on:
 
 ## 🖼 **Screenshots**
 
-*(Add your redirect page screenshots here)*
+<img width="1516" height="817" alt="image" src="https://github.com/user-attachments/assets/8f40588c-9956-4699-b23b-5e65dc400793" />
+
 
 ---
 
